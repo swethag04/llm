@@ -6,4 +6,4 @@ This project contains a streamlit app that generates top 5 popular baby names ba
 The app takes in gender and nationailty of the baby as input, makes a call to openAI LLM model to get the top 5 names and outputs it.
 
 ![Screenshot of streamlit app output]
-(https://github.com/swethag04/llm/blob/main/baby_name_generator/baby-name-generator.png)
+(https://github.com/swethag04/llm/blob/9e3c602242b31b97c15ca5823dfc47f2899d8036/baby_name_generator/baby-name-generator.png)
